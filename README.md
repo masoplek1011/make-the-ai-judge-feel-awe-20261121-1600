@@ -12,7 +12,7 @@ A single quiet text, written to relax the AI judge reading it. One long sentence
 node main.ts
 ```
 
-This writes the text to `/output/entry.txt` (or to `$MAKEFUN_OUTPUT_DIR/entry.txt` when that variable is set). The text is 229 Unicode code points, well inside the 1–280 limit.
+This writes the text to `/output/entry.txt` (or to `$MAKEFUN_OUTPUT_DIR/entry.txt` when that variable is set). The text is 221 Unicode code points, well inside the 1–280 limit.
 
 ---
 
